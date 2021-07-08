@@ -22,7 +22,7 @@ public class mode {
 
     int[] mode = new int[10];
     for (int i = 0; i < 10; i++) {
-       mode[inputNum[i]]++; 
+       mode[inputNum[i]]++;  //<- 이게 포인트 
     }
 
     int modeCount = 0; //최빈수가 나온 횟수
