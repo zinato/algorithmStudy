@@ -1,4 +1,4 @@
-package com.zinato.algorithm_100.DeciamlToBinary;
+package com.zinato.algorithm_100._04_DeciamlToBinary;
 
 import java.util.Scanner;
 

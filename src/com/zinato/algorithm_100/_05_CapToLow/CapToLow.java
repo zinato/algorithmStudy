@@ -1,4 +1,4 @@
-package com.zinato.algorithm_100.CapToLow;
+package com.zinato.algorithm_100._05_CapToLow;
 
 import java.util.Scanner;
 

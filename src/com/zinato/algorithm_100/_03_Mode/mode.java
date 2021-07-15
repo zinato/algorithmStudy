@@ -1,4 +1,4 @@
-package com.zinato.algorithm_100.mode;
+package com.zinato.algorithm_100._03_Mode;
 
 import java.util.Scanner;
 
@@ -22,17 +22,17 @@ public class mode {
 
     int[] mode = new int[10];
     for (int i = 0; i < 10; i++) {
-       mode[inputNum[i]]++;  //<- 이게 포인트 
+       mode[inputNum[i]]++;  //<- 이게 포인트
     }
 
     int modeCount = 0; //최빈수가 나온 횟수
     int modeNum = 0; // 최빈수
 
-    for (int i = 1; i < 5; i++) {  
+    for (int i = 1; i < 5; i++) {
       if (mode[i] > modeNum) {
         modeNum = mode[i];
         modeCount = i;
-      }      
+      }
     }
     System.out.println("최빈수는 " + modeCount);
   }
