@@ -26,11 +26,15 @@ public class NumRec1 {
     for (int i = 0; i < inputNum; i++) {
       for (int j = 0; j < inputNum; j++) {
 //        arr[i][j] = count++;
-        arr[i][j] = i * inputNum + j + 1; // 이 방식도 있음.
+        System.out.printf("%4d", count++);
+//        arr[i][j] = i * inputNum + j + 1; // 이 방식도 있음.
+//        System.out.printf("%4d", i * inputNum + j +1);
       }
+      System.out.println();
     }
 
-    System.out.println(Arrays.deepToString(arr));
+
+//    System.out.println(Arrays.deepToString(arr));
 
 
   }
