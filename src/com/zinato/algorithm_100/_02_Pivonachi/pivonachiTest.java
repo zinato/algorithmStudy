@@ -1,4 +1,4 @@
-package com.zinato.algorithm_100.pivonachi;
+package com.zinato.algorithm_100._02_Pivonachi;
 
 public class pivonachiTest {
 
