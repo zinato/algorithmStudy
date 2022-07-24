@@ -10,7 +10,7 @@ package com.zinato.algorithm_100._12_NumRec3_;
  * 3 7 11 15
  * 4 8 12 16
  */
-public class Main {
+public class NumRec3 {
   public static void main(String[] args) {
 //    int n = 4;
 //    for (int i = 1; i < n + 1; i++) {
