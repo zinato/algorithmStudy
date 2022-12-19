@@ -5,7 +5,8 @@ public class q_11720 {
 
   /**
    * 백준 11720 숫자의 합 구하기
-   * @param args
+   *
+   * !문자에서 숫자로 변환시 아스키 코드 값을 고려해야 함
    */
 
   public static void main(String[] args) {
