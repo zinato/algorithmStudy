@@ -9,5 +9,6 @@ public class DevTest {
 
         System.out.println("수정 내용 A");
         System.out.println("수정 내용 B");
+        System.out.println("수정 내용 C");
     }
 }
