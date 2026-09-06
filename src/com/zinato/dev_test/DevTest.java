@@ -8,5 +8,7 @@ public class DevTest {
         System.out.println("체리픽!");
 
         System.out.println("test!!");
+        System.out.println("테스트 E");
+        System.out.println("테스트 F");
     }
 }
