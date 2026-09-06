@@ -11,5 +11,6 @@ public class DevTest {
         System.out.println("테스트 E");
         System.out.println("테스트 F");
         System.out.println("테스트 G");
+        System.out.println("테스트 F");
     }
 }
